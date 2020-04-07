@@ -1,14 +1,3 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "posts":[{"cur_name":"SaudiaArabia","acc_balance":"0","acc_id":"1","acc_name":"الميزانية","acc_code":"00","isdefault":"1","acc_fatheracc":""},{"cur_name":"SaudiaArabia","acc_balance":"0","acc_id":"2","acc_name":"الأرباح والخسائر","acc_code":"01","isdefault":"1","acc_fatheracc":"1"},{"cur_name":"SaudiaArabia","acc_balance":"0","acc_id":"3","acc_name":"المتاجرة","acc_code":"02","isdefault":"1","acc_fatheracc":"2"},{"cur_name":"SaudiaArabia","acc_balance":"0","acc_id":"4","acc_name":"التشغيل","acc_code":"03","isdefault":"1","acc_fatheracc":"3"},{"cur_name":"SaudiaArabia","acc_balance":"1547.5","acc_id":"5","acc_name":"الموجودات","acc_code":"1","isdefault":"1","acc_fatheracc":""},{"cur_name":"SaudiaArabia","acc_balance":"848","acc_id":"6","acc_name":"الموجودات الثابتة","acc_code":"11","isdefault":"1","acc_fatheracc":"5"},{"cur_name":"SaudiaArabia","acc_balance":"281.33333333333","acc_id":"7","acc_name":"الأراضي","acc_code":"111","isdefault":"1","acc_fatheracc":"6"},{"cur_name":"SaudiaArabia","acc_balance":"450","acc_id":"8","acc_name":"مباني وإنشاءات ومرافق وطرق 1","acc_code":"112","isdefault":"1","acc_fatheracc":"6"},{"cur_name":"SaudiaArabia","acc_balance":"116.66666666667","acc_id":"9","acc_name":"آلات وتجهيزات","acc_code":"113","isdefault":"1","acc_fatheracc":"6"},{"cur_name":"SaudiaArabia","acc_balance":"0","acc_id":"10","acc_name":"وسائل نقل وانتقال","acc_code":"114","isdefault":"1","acc_fatheracc":"6"}]
 }
